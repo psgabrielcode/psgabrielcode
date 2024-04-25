@@ -1,4 +1,4 @@
-# Eae, me chamo gabriel e estou explorador de Código
+# 💻📲Eae, me chamo gabriel, e sou um desenvolvedor 👨🏻‍💻
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
