@@ -1,19 +1,61 @@
-# 💻📲Eae, me chamo gabriel, e sou um desenvolvedor 👨🏻‍💻
+# Eae, me chamo Gabriel, e sou um desenvolvedor 👨🏻‍💻💻📲
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`(Developer / Designer / Filmmaker)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Sou um desenvolvedor independente full-stack, Editor e Designer, por isso crio conteúdos dos meus projetos de DEV aqui e em vídeos e em outras redes. Construindo minha versão do mundo digital passo a passo. Todos os projetos de codificação são construídos desde o início, do planejamento e design até a solução de problemas da vida real com código. Todo o conteúdo do vídeo é construído da mesma forma, desde a idealização e planejamento, até a finalização do conteúdo com toques artísticos. Eu publico esses conteúdos no meu canal do YouTube "Gabriel Code" para quem quiser ver minhas aventuras na programação.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  <div> 
+  <a href="https://www.youtube.com/channel/UCKcAJX3oQTKz5rW_3UjJOlg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/psgabriel__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielsantana.prata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/gabriel-santana-da-silva-a270631b2/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+---
+
+<h2>🛠️ My Skills </h2>
+
+<h3>🖥️ Programming languages </h3>
+  
+  
+  C   C++   JavaScript   Java   Python   PHP
+
+  
+
+👉 Frontend Development
+  HTML   CSS   Bootstrap  
+
+👉 Databases & Cloud Hosting
+  MySQL   SQLite   GitHub Pages   Heroku   Firebase  
+
+👉 Frameworks
+  Angular   Django   SpringBoot
+
+👉Graphic Designing
+  Adobe Illustrator   Adobe Indesign   Adobe Lightroom   Adobe Premiere Pro   Canva  
+
+👉 Software & Tools
+  Adobe   Postman   Colab   Codepen   Git   Markdown   Linux   Visual Studio Code   Jupyter  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -36,3 +78,4 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
